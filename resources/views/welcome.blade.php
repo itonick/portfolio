@@ -65,8 +65,8 @@
                         ガイドブックには載っていないような場所やレストランなど、リアルな体験を共有したり知ることができます。
                         また、初めての旅行や危ないと言われている地域についてなど、実際に行った人に質問することでより充実した旅になります。
                     </p>
-                    <p class="col-12">●URL：<a href="https://github.com/itonick/travenirs" target="_blank" rel="noopener noreferrer">https://github.com/itonick/travenirs</a></p>
-                    <p class="col-12">●GitHub：<a href="https://travenirs.herokuapp.com/" target="_blank" rel="noopener noreferrer">https://travenirs.herokuapp.com/</a></p>
+                    <p class="col-12">●URL：<a href="https://travenirs.herokuapp.com/" target="_blank" rel="noopener noreferrer">https://travenirs.herokuapp.com/</a></p>
+                    <p class="col-12">●GitHub：<a href="https://github.com/itonick/travenirs" target="_blank" rel="noopener noreferrer">https://github.com/itonick/travenirs</a></p>
                 </div>
             </div>
             <div class="pt-2 pb-2 text-center bg-dark">
