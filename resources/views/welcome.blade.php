@@ -30,7 +30,7 @@
             <div class="profile container">
                 <div class="title"><img src="https://img.icons8.com/windows/32/000000/gender-neutral-user.png"><a name="profile">Profile</a></div>
                 <div class="row profile-list col-10 offset-1">
-                    <p>はじめまして。平成5年生まれの26歳、伊藤ゆうきと申します。</p>
+                    <p>はじめまして。平成5年生まれの27歳、伊藤ゆうきと申します。</p>
                     <p>
                         大学では植物に関する研究をしておりました。卒業後は、ホテル業界でフロントを1年2か月経験し、
                         その後、Webメディアのスタートアップ企業で営業事務や編集部を1年6か月経験しました。
