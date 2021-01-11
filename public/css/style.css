@@ -71,6 +71,10 @@ li {
 .profile-list {
     background-color: white;
     border-radius: 20px;
+    border: 1px solid lightgray;
+}
+.profile-list img {
+    border: 1px solid #000;
 }
 
 .profile {
