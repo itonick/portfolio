@@ -68,6 +68,17 @@
                     <p class="col-12">●URL：<a href="https://travenirs.herokuapp.com/" target="_blank" rel="noopener noreferrer">https://travenirs.herokuapp.com/</a></p>
                     <p class="col-12">●GitHub：<a href="https://github.com/itonick/travenirs" target="_blank" rel="noopener noreferrer">https://github.com/itonick/travenirs</a></p>
                 </div>
+                <div class="row profile-list col-10 offset-1">
+                    <img src="organiccosme.png" width="70%" height="auto" class="offset-2">
+                    <p class="col-12 mt-4">●サイト名：Organic Cosme</p>
+                    <p class="col-12">●コンセプト：サンプルサイト</p>
+                    <p class="col-12">●サイト名の由来：オーガニックコスメの紹介サイト</p>
+                    <p class="col-12">
+                        ●目的：サンプルとして作成しました。
+                    </p>
+                    <p class="col-12">●URL：<a href="https://hopeful-tereshkova-4a53a3.netlify.app/" target="_blank" rel="noopener noreferrer">https://hopeful-tereshkova-4a53a3.netlify.app/</a></p>
+                    <p class="col-12">●GitHub：<a href="https://github.com/itonick/OrganicCosme" target="_blank" rel="noopener noreferrer">https://github.com/itonick/OrganicCosme</a></p>
+                </div>
             </div>
             <div class="pt-2 pb-2 text-center bg-dark">
                 <div class="col-md-10">
